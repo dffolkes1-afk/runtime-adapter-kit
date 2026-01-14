@@ -1,1 +1,0 @@
-# runtime-adapter-kit
